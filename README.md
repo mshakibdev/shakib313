@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shakib, a full-time  Frontend developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">I'm Shakib, a software engineer  👨‍💻 working since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on Aws Webservice, GraphQl  
